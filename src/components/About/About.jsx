@@ -39,7 +39,7 @@ const About = () => {
               <div className="about-wrapper__info">
                 <p className="about-wrapper__info-text">
                   {paragraphOne ||
-                    "Je suis étudiant en ing à l'Institut Africain d'informatique(IAI-TOGO)."}
+                    "Je suis étudiant en ingénierie informatique à l'Institut Africain d'informatique(IAI-TOGO)."}
                 </p>
                 <p className="about-wrapper__info-text">
                   {paragraphTwo ||
